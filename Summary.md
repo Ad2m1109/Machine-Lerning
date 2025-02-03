@@ -186,14 +186,3 @@
 12. **Hyperparameter Tuning** improves model performance by finding the best set of hyperparameters.
 13. **Model Deployment** makes the model available for real-world use through APIs.
 14. **Error Handling** ensures the API can handle invalid inputs and unexpected errors gracefully.
-
----
-
-## **What’s Next?**
-Here are some ideas for the next steps:
-1. **Deploy to the Cloud**: Deploy your Flask app to a cloud platform like **Heroku**, **AWS**, or **Google Cloud**.
-2. **Add More Features**: Add more routes or functionality to your API, such as model metadata or health checks.
-3. **Model Monitoring**: Explore tools like **Prometheus** or **Grafana** to monitor your model’s performance in production.
-4. **Advanced APIs**: Learn about **FastAPI** for building high-performance APIs with automatic documentation.
-
-Let me know which topic you’d like to dive into next! 😊
