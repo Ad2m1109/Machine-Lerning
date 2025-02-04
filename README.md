@@ -1,7 +1,7 @@
 # California Housing Price Prediction
 
 
-![Alt Text](interface.jpg)
+![Alt Text](interface.png)
 ## Overview
 
 This project aims to predict the median house value in California using a machine learning model. The dataset used is the California Housing dataset, which contains various features such as median income, housing median age, and average rooms per dwelling. The model is built using Python and Flask for serving the predictions.
