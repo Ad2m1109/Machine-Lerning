@@ -186,6 +186,7 @@
 12. **Hyperparameter Tuning** improves model performance by finding the best set of hyperparameters.
 13. **Model Deployment** makes the model available for real-world use through APIs.
 14. **Error Handling** ensures the API can handle invalid inputs and unexpected errors gracefully.
+<<<<<<< HEAD
 15. **Flask** is a lightweight web framework for building APIs in Python.
 16. **Docker** containerizes the application for consistent deployment across different environments.
 17. **Kubernetes** orchestrates the deployment, scaling, and management of containerized applications.
@@ -193,3 +194,5 @@
 19. **Monitoring and Logging** help track the performance and health of the deployed model.
 20. **Version Control** with Git ensures that changes to the codebase are tracked and managed effectively.
 21. **Collaboration** with GitHub facilitates teamwork and code sharing.
+=======
+>>>>>>> be3b74e10216c03f8e70c8228ef8e5f49f8f98d9
