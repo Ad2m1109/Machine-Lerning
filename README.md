@@ -1,6 +1,20 @@
 # California Housing Price Prediction
 
-This repository contains a machine learning project for predicting California housing prices using various regression models. The project includes data preprocessing, model training, evaluation, and deployment using Flask for creating an API.
+
+![Alt Text](interface.jpg)
+## Overview
+
+This project aims to predict the median house value in California using a machine learning model. The dataset used is the California Housing dataset, which contains various features such as median income, housing median age, and average rooms per dwelling. The model is built using Python and Flask for serving the predictions.
+
+## Table of Contents
+
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model](#model)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Project Structure
 
@@ -86,6 +100,19 @@ To deploy the application on Heroku, follow these steps:
 }
 ```
 
+
+## Model
+
+The model used for this project is a Random Forest Regressor. The model was trained on the California Housing dataset and achieved an R² score of 0.80 on the test set. The model was evaluated using cross-validation and hyperparameter tuning.
+
+## Results
+
+The model was able to predict the median house value with a mean absolute error of $50,000. The model was also able to capture the relationship between the median income and the median house value. The model was deployed using Flask and can be accessed at [https://california-housing-price-prediction.herokuapp.com/](https://california-housing-price-prediction.herokuapp.com/).
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
